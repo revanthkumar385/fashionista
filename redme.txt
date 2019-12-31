@@ -1,0 +1,2 @@
+It contains html and css code - demo catelog 
+To open the code need one text editor (ex: VS Code)
